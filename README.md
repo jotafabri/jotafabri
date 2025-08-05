@@ -1,4 +1,4 @@
-
+![Header](header.jpg)
 ## Hi there 👋, I'm Fabri
 Information Systems Engineering student at UTN FRBA. Passionate about technology and continuous learning. Always exploring new skills.
 
